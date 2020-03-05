@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<columns>
+    <column name="nombre" length="60" type="STRING" defaultValue="" />
+    <column name="lastName" length="60" type="STRING" defaultValue="" />
+    <column name="bornDate" length="10" type="DATE" defaultValue="" />
+    <column name="cellPhone" length="10" type="INTEGER" defaultValue="" />
+    <column name="homePhone" length="10" type="INTEGER" defaultValue="" />
+    <column name="street" length="20" type="STRING" defaultValue="" />
+    <column name="homeNumber" length="5" type="INTEGER" defaultValue="" />
+    <column name="cp" length="5" type="INTEGER" defaultValue="" />
+    <column name="transactionId" length="10" type="INTEGER" defaultValue="" />
+    <column name="amount" length="10" type="INTEGER" defaultValue="" />
+    <column name="cardNumber" length="16" type="STRING" defaultValue="" />
+    <column name="cvv" length="4" type="INTEGER" defaultValue="" />
+    <column name="bankName" length="15" type="STRING" defaultValue="" />
+    <column name="shopNumber" length="5" type="INTEGER" defaultValue="" />
+    <column name="countryName" length="20" type="STRING" defaultValue="" />
+    <column name="transactionDate" length="10" type="DATE" defaultValue="" />
+    <column name="transactionTime" length="8" type="TIME" defaultValue="" />
+    <column name="authorizationCode" length="2" type="STRING" defaultValue="00" />
+    <column name="shopName" length="20" type="STRING" defaultValue="" />
+    <column name="fraud" length="5" type="BOOLEAN_STRING" defaultValue="" />
+    <column name="fraud2" length="1" type="BOOLEAN_INTEGER" defaultValue="" />
+</columns>
